@@ -417,3 +417,6 @@ Girth Height Volume
 4  10.5     72   16.4
 5  10.7     81   18.8
 6  10.8     83   19.7
+
+head(black_cherry_trees, 10)
+head(black_cherry_trees, 15)
